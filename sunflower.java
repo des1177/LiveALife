@@ -1,3 +1,5 @@
+
+// find height of a binary tree
 public int maxDepth(TreeNode root) {
       // base case
       if(root == null) {
