@@ -1,4 +1,7 @@
-
+// check if this is a balanced binary tree ?
+// definition of balanced binary tree:
+// height of left sub-tree and right sub-tree <= 1
+boolean 
 
 
 
